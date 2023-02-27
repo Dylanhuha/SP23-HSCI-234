@@ -16,14 +16,46 @@ Examples below can be viewed and run on GitHub Pages at:
   
 ### class 01
 
-[Hello Python!](class01/hello-python.html)   
+[Hello Python!](class01/hello-python.html) - PyScript terminal (REPL)  
 
 ### class 02  
 
-[Begin P5](class02/begin-p5/) - blank template   
+[Begin P5](class02/begin-p5/) - blank p5 library template   
 [2.1 Basic Shapes](class02/2.1-basic-shapes/) - drawing geometric shapes  
 [2.2 Shapes Properties](class02/2.2-shape-properties/) - stroke weight, cap, join properties  
 [2.3 Colors](class02/2.3-colors/) - fill and stroke colors  
 [2.4 Drawing with Variables](class02/2.4-drawing-with-variables/) - variables in drawing functions  
-[Practice Example](class02/practice-example/) - in-class coding  
+[Practice Examples](class02/practice-examples/) - in-class practice examples  
 [Glossary](class02/glossary.md) - computer science terms  
+   
+### class 03   
+   
+[3.1 Built-in p5 Variables](class03/3.1-built-in-variables/) - `p5.width`, `p5.height`, `p5.mouseX`, `p5.mouseY` variables   
+[3.2 Random Function](class03/3.2-random-function/) - using randomness     
+[3.3 Transformation Functions](class03/3.3-transformation-functions/) - using transformations like translate, rotate, scale   
+[3.4 Defining Functions](class03/3.4-defining-functions/) - how to define and call functions   
+[Practice Examples](class03/practice-examples/) - in-class practice examples  
+[Flower Exercise](class03/flower-exercise/) - drawing with transformations, functions and repetition   
+[Glossary](class03/glossary.md)  
+
+### class 04   
+   
+[4.1 Global Variables](class04/4.1-global-variables/) - using global variables   
+[4.2 Conditionals](class04/4.2-conditionals/) - conditions, relational and logical operators   
+[4.3 Mouse Conditions](class04/4.3-mouse-conditions/) - conditions with `p5.mouseIsPressed`, `p5.mouseButton`  
+[4.4 Key Conditions](class04/4.4-key-conditions/) - conditions with `p5.keyIsPressed`, `p5.key`, `p5.keyCode`   
+[Practice Examples (Terminal)](class04/practice-examples-terminal)   
+[Practice Examples (p5)](class04/practice-examples-p5/)   
+[Glossary](class04/glossary.md)  
+   
+### class 05   
+   
+[5.1 Function Return Value](class05/5.1-function-return-value) - using function `return` statement  
+[5.2 Button Functions](class05/5.2-rectangle-button) - creating buttons with functions and return values    
+[Pong V1](class05/pong-v1/) - version 1 of Pong game   
+[Practice Examples](class05/practice-examples)   
+[Glossary](class05/glossary.md)  
+   
+### class 06   
+   
+[6.1 Event Functions](class06/6.1-event-functions) - using events like  `mousePressed()`, `mouseReleased()`, etc.   
